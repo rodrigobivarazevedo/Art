@@ -1,0 +1,51 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.btn {
+  display: none !important;
+}
+
+.page-header {
+    font-family: 'Roboto', sans-serif;
+    background-image: url("/research-paper/assets/page_header2.jpg"), linear-gradient( to right, #032A4B 0%, #032A4B 50%, #062238 50%,#062238 100%);
+    background-position: center;
+    background-repeat: no-repeat;
+    
+   }
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+    }
+
+body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    background-color: #FFFFFF;
+    color: #000000;
+    margin: 0;
+    padding: 0;
+    }
+
+.main-content h2 {
+    font-weight: bold;
+    text-align: center;
+    padding: 15px;
+    }
+
+.main-content h3 {
+    padding: 15px;
+  }
+
+a {
+    color: #000000;
+    text-decoration: none;
+    &:hover {
+        color: #FF0000;
+        text-decoration: underline;
+        }
+    }
