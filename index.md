@@ -24,34 +24,34 @@ As I stand here today, brush in hand, I am humbled and honored to share my artis
 Welcome to the world of Abel Zephani, where art and life entwine in a harmonious symphony of beauty and creativity.
 
 
- **“An overview of the applications of artificial intelligence”**, (Dlamini et al., 2020d)
+ **“"Whimsical Dreams"”**
 
 
 ![](/assets/1_img.jpg)
 
 
- **“An overview of the applications of artificial intelligence”**, (Dlamini et al., 2020d)
-
-
-![](/assets/1_img.jpg)
-
-
-
- **“An overview of the applications of artificial intelligence”**, (Dlamini et al., 2020d)
+ **“"Melodies of the Cosmos"”**
 
 
 ![](/assets/1_img.jpg)
 
 
 
- **“An overview of the applications of artificial intelligence”**, (Dlamini et al., 2020d)
+ **“"Floral Symphony"”**
 
 
 ![](/assets/1_img.jpg)
 
 
 
- **“An overview of the applications of artificial intelligence”**, (Dlamini et al., 2020d)
+ **“"Serenity at Sea"”**
+
+
+![](/assets/1_img.jpg)
+
+
+
+ **“"Celestial Gardens"”**
 
 
 ![](/assets/1_img.jpg)
@@ -60,7 +60,7 @@ Welcome to the world of Abel Zephani, where art and life entwine in a harmonious
 
 
 
- **“An overview of the applications of artificial intelligence”**, (Dlamini et al., 2020d)
+ **“"Dancing in the Rain"”**
 
 
 ![](/assets/1_img.jpg)
