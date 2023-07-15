@@ -27,36 +27,36 @@ Welcome to the world of Abel Zephani, where art and life entwine in a harmonious
  **“"Whimsical Dreams"”**
 
 
-![](/assets/DALL·E 2023-07-15 18.02.21 - Whimsical Dreams__ A surreal landscape painting featuring floating islands adorned with colorful flora and fauna, bathed in soft, ethereal light..png)
+![](/assets/Whimsical Dreams.png)
 
 
  **“"Melodies of the Cosmos"”**
 
 
-![](/assets/DALL·E 2023-07-15 18.03.13 - Melodies of the Cosmos__ An abstract composition capturing the cosmic dance of vibrant stars, interstellar dust, and celestial bodies, blending togeth.png)
+![](/assets/Melodies of the Cosmos1.png)
 
-![](/assets/DALL·E 2023-07-15 18.03.27 - Melodies of the Cosmos__ An abstract composition capturing the cosmic dance of vibrant stars, interstellar dust, and celestial bodies, blending togeth.png)
+![](/assets/Melodies of the Cosmos2.png)
 
 
 
  **“"Floral Symphony"”**
 
 
-![](/assets/DALL·E 2023-07-15 18.04.52 - _Floral Symphony__ A vibrant still-life painting showcasing a bouquet of exotic flowers bursting with an array of vibrant hues, delicately arranged ag.png)
+![](/assets/Floral Symphony.png)
 
 
 
  **“"Serenity at Sea"”**
 
 
-![](/assets/DALL·E 2023-07-15 18.05.45 - _Serenity at Sea__ A tranquil seascape capturing the soothing ebb and flow of gentle waves, with a mesmerizing play of light and reflections dancing o.png)
+![](/assets/Serenity at Sea.png)
 
 
 
  **“"Celestial Gardens"”**
 
 
-![](/assets/DALL·E 2023-07-15 18.07.10 - _Celestial Gardens__ An imaginative portrayal of a celestial garden floating among the stars, with fantastical flowers and plants, each emitting its o.png)
+![](/assets/Celestial Gardens.png)
 
 
 
@@ -65,7 +65,7 @@ Welcome to the world of Abel Zephani, where art and life entwine in a harmonious
  **“"Dancing in the Rain"”**
 
 
-![](/assets/DALL·E 2023-07-15 18.07.45 - _Dancing in the Rain__ A dynamic depiction of figures joyfully twirling and splashing through a rain-soaked street, capturing the energy and romance o.png)
+![](/assets/Dancing in the Rain.png)
 
 
 
@@ -74,7 +74,7 @@ Welcome to the world of Abel Zephani, where art and life entwine in a harmonious
  **“Silent Voices”**
 
 
-![](/assets/DALL·E 2023-07-15 18.11.56 - _Silent Voices__ Create a haunting and evocative painting that represents marginalized individuals or communities whose voices often go unheard in soc.png)
+![](/assets/Silent Voices.png)
 
 
 
