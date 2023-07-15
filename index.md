@@ -5,8 +5,6 @@ title: The Artistic Odyssey of Abel Zephania
 
 My name is Abel Zephania, a 29-year-old artist hailing from the mesmerizing landscapes of Kenya. Today, I invite you to join me on an intimate journey through the kaleidoscope of colors that define my life and art.
 
-From my earliest memories, I was entranced by the mesmerizing beauty of Kenya's diverse landscapes. The rolling plains of the Maasai Mara, the cascading waterfalls of the Aberdare Range, and the rhythmic waves of the Indian Ocean all stirred something within me—a deep yearning to capture these fleeting moments of enchantment on canvas.
-
 Growing up in the vibrant city of Nairobi, I was surrounded by a rich tapestry of cultures and artistic expressions. My parents, recognizing my passion for art, nurtured my talent and provided me with the tools to embark on my creative journey. With each brushstroke, I discovered a language that transcended words, allowing me to express my innermost emotions and observations.
 
 At the age of 17, I made the audacious decision to pursue my artistic aspirations wholeheartedly. Armed with determination and a heart filled with dreams, I set off on a pilgrimage across the diverse landscapes of Kenya. From the picturesque shores of Lake Nakuru to the mystical forests of Mount Kenya, I immersed myself in the rhythms and stories that whispered through the winds.
@@ -17,9 +15,7 @@ As I honed my craft, I delved into various mediums, from oil paints that brought
 
 In my studio, tucked away in a serene corner of Nairobi, I embarked on a personal voyage of self-discovery. The creative process allowed me to explore the depths of my own identity, blending elements of my Kenyan heritage with contemporary expressions. I merged traditional African art techniques with modern styles, forging a unique artistic voice that celebrated both the past and the present.
 
-Over the years, my work has found its way onto prestigious gallery walls, captivating the hearts and imaginations of art lovers worldwide. From New York to Paris, Tokyo to Johannesburg, my canvases have become ambassadors of Kenyan culture, inviting others to glimpse the extraordinary beauty that lies within our borders.
-
-Yet, my artistic odyssey is far from complete. I remain driven by an insatiable hunger to push the boundaries of my creativity, to explore new horizons and embrace fresh perspectives. I continue to draw inspiration from the vibrant tapestry of life in Kenya, as well as the remarkable stories woven by the people who call this land home.
+My artistic odyssey is far from complete. I remain driven by an insatiable hunger to push the boundaries of my creativity, to explore new horizons and embrace fresh perspectives. I continue to draw inspiration from the vibrant tapestry of life in Kenya, as well as the remarkable stories woven by the people who call this land home.
 
 As I stand here today, brush in hand, I am humbled and honored to share my artistic journey with you. Each stroke is a celebration of the human experience, an invitation to connect and reflect. Together, let us venture into the realm of imagination, where colors dance, stories unfold, and the spirit of Kenya resonates in every stroke of my brush.
 
