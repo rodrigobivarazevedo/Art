@@ -23,7 +23,7 @@ Yet, my artistic odyssey is far from complete. I remain driven by an insatiable 
 
 As I stand here today, brush in hand, I am humbled and honored to share my artistic journey with you. Each stroke is a celebration of the human experience, an invitation to connect and reflect. Together, let us venture into the realm of imagination, where colors dance, stories unfold, and the spirit of Kenya resonates in every stroke of my brush.
 
-Welcome to the world of Abel Zephani, where art and life entwine in a harmonious symphony of beauty and creativity.
+Welcome to the world of Abel Zephania, where art and life entwine in a harmonious symphony of beauty and creativity.
 
 
  **“"Whimsical Dreams"”**
