@@ -3,7 +3,7 @@ title: The Artistic Odyssey of Abel Zephani
 ---
 ## Capturing Life's Symphony
 
-Greetings, art enthusiasts! My name is Abel Zephani, a 29-year-old artist hailing from the mesmerizing landscapes of Kenya. Today, I invite you to join me on an intimate journey through the kaleidoscope of colors that define my life and art.
+My name is Abel Zephani, a 29-year-old artist hailing from the mesmerizing landscapes of Kenya. Today, I invite you to join me on an intimate journey through the kaleidoscope of colors that define my life and art.
 
 From my earliest memories, I was entranced by the mesmerizing beauty of Kenya's diverse landscapes. The rolling plains of the Maasai Mara, the cascading waterfalls of the Aberdare Range, and the rhythmic waves of the Indian Ocean all stirred something within me—a deep yearning to capture these fleeting moments of enchantment on canvas.
 
