@@ -1,5 +1,5 @@
 ---
-title: The Artistic Odyssey of Abel Zephani
+title: The Artistic Odyssey of Abel Zephania
 ---
 ## Capturing Life's Symphony
 
